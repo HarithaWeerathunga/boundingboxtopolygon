@@ -9,8 +9,8 @@ import cv2
 import PIL.ImageDraw as ImageDraw
 import PIL.Image as Image
 
-dirname = r"/Users/harithaweerathunga/Desktop/OREL_RnD/Planigo"
-destination_folder_name = r"/Users/harithaweerathunga/Desktop/OREL_RnD/Planigo/Results"
+dirname = r"/Users/harithaweerathunga/Desktop/......."
+destination_folder_name = r"/Users/harithaweerathunga/Desktop....../Results"
 
 
 def fast_scandir(dirname):
